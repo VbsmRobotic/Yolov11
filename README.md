@@ -1,1 +1,1 @@
-# Yolov8-Detection-Segmentation
+# Yolov11
